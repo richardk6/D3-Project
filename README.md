@@ -9,7 +9,7 @@ Thank you for the opportunity to collect the data for the series of feature stor
 The data set included with the assignment is based on 2014 ACS 1-year estimates: [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml), but you are free to investigate a different data set. The current data set includes data on rates of income, obesity, poverty, etc., by state. Note that MOE stands for "margin of error."
 
 ### Code
-1. You can find all my code on git hub site in the repository called `D3-challenge`
+1. You can find all my code on git hub site in the repository called `D3-Project`
 
 ## First Scatter Plot (index.html)
 
@@ -36,10 +36,6 @@ I now included more demographics and more risk factors. This plot has click even
 #### 2. Incorporate d3-tip
 
 While the ticks on the axes allow us to infer approximate values for each circle, it's impossible to determine the true value without adding another layer of data. So I created tooltips to reveal a specific element's data when the user hovers their cursor over the element. 
-
-![8-tooltip](Images/8-tooltip.gif)
-
-* Check out [David Gotz's example](https://bl.ocks.org/davegotz/bd54b56723c154d25eedde6504d30ad7) to see how you should implement tooltips with d3-tip.
 
 - - -
 ### Copyright
